@@ -1,0 +1,4 @@
+Timestamp: 30/04/2024 09:41:41 - From: Inicio - Message: Inicio Controller
+Timestamp: 30/04/2024 09:41:41 - From: Inicio - Message: Montagem
+Timestamp: 30/04/2024 09:41:41 - From: Inicio - Message: Configura http request
+Timestamp: 30/04/2024 09:41:41 - From: Inicio - Message: Iniciar

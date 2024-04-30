@@ -1,0 +1,6 @@
+@WhatAppIntegration_HostAddress = http://localhost:5232
+
+GET {{WhatAppIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

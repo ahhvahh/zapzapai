@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZsOUbZlyFQ08yMf23Zq/xc/acPa4Q1Qp2gnpOySI7uU=",
+  "Source": "WhatAppIntegration",
+  "BasePath": "_content/WhatAppIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
